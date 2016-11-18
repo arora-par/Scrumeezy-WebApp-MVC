@@ -1,0 +1,27 @@
+#errmsg {
+	color: red;
+}
+
+div[class="jumbotron"] h1, div[class="jumbotron"] p {
+	color: beige;
+}
+
+div[class="jumbotron"] {
+	background-color: lightseagreen;
+}
+
+.login-dialog {
+	color: lightseagreen;
+}
+.navbar {
+	margin-bottom: 50px;
+	border-radius: 0;
+}
+
+
+
+/* Add a gray background color and some padding to the footer */
+footer {
+	background-color: #f2f2f2;
+	padding: 25px;
+}
